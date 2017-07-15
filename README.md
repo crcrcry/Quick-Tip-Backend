@@ -1,5 +1,5 @@
 # Quick-Tip-Backend
-The server side of Quick-Tip
+The server side of [Quick-Tip](https://github.com/Quick-Tip)
 
 ## Stage
 - Project is in development，the source code is in the dev branch.
